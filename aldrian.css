@@ -1,0 +1,17 @@
+h1 {
+    color: #1dab22
+} 
+h2 {
+
+    color: #2a682c
+
+}
+<html>
+<body>
+
+<h1 style="text-align:center;">Centered Heading</h1>
+<h2 style="text-align:center;">Centered paragraph.</h2>
+
+</body>
+</html>
+
